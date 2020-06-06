@@ -1,0 +1,151 @@
+.pad-px4 {
+    padding: 4px;
+}
+
+.programA {
+    margin: 25px;
+    width: 100px;
+}
+
+.programB {
+    margin-top: 25px;
+    margin-right: 25px;
+    width: 100px;
+}
+
+.programC {
+    margin-right: 25px;
+    margin-left: 25px;
+    width: 100px;
+}
+
+.programD {
+    margin-top: 40px;
+    margin-right: 25px;
+    width: 100px;
+}
+
+.allign-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.dropshad {
+    filter: drop-shadow(5px 5px 0px rgba(0, 0, 0, 0.40));
+}
+
+.text-center {
+    text-align: center;
+}
+
+.cent {
+    align-content: center;
+    align-items: center;
+    align-self: center;
+}
+
+/* Fonts */
+.pixeled {
+    font-family: 'VT323', monospace;
+    color: white;
+}
+
+
+
+/* Colors */
+.orangered {
+    color: orangered;
+}
+
+.uptaskbar {
+    background-color: #394DCD;
+    color: white;
+}
+
+.middlewindowthing {
+    background-color: #C0C0C0;
+}
+
+.linearound {
+    padding: 5px;
+    background-color: #C9C9C9;
+}
+
+.cvcolorwindow {
+    background-color: #F0F0F0;
+}
+
+.black {
+    color: black;
+}
+
+.purple {
+    color: #e900ff;
+}
+
+.foop{
+    background-image: url("images/Wiki-background.png");
+    background-position: center;
+}
+
+/* Footer */
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #6C6C6C;
+    color: white;
+}
+
+.buttonsfooter {
+    padding: 8px;
+}
+
+.buttonimg {
+    margin-bottom: 3px;
+}
+
+.colum {
+    display: inline-block;
+    vertical-align: top;
+}
+
+/* ID */
+#taskbar {
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+#columholder {
+    white-space: nowrap;
+}
+
+#gameholder {
+    white-space: nowrap;
+}
+
+
+
+/* COLLECTION CSS */
+.gameleft {
+    margin-left: 6px;
+    margin-top: 4px;
+    margin-right: 4px;
+    width: 75px;
+}
+
+.gamemiddle {
+    margin-top: 4px;
+    margin-right: 4px;
+    width: 75px;
+}
+
+.gameright {
+    margin-top: 4px;
+    margin-right: 6px;
+    width: 75px;
+}
